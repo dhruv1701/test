@@ -3,7 +3,7 @@ import time
 
 def testing():
     print(sys.argv)
-    time.sleep(600)
+    time.sleep(60)
     print("hello after sleep")
 
 
